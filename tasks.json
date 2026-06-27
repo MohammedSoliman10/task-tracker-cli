@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "description": "Buy groceries and cook dinner",
+        "status": "in-progress",
+        "createdAt": "2026-06-27 22:33:50",
+        "updatedAt": "2026-06-27 23:06:09"
+    },
+    {
+        "id": 3,
+        "description": "zinga bo linga",
+        "status": "todo",
+        "createdAt": "2026-06-27 22:35:25",
+        "updatedAt": "2026-06-27 23:09:00"
+    },
+    {
+        "id": 3,
+        "description": "tootoo list have nigga",
+        "status": "todo",
+        "createdAt": "2026-06-27 23:07:09",
+        "updatedAt": "2026-06-27 23:07:09"
+    },
+    {
+        "id": 4,
+        "description": " nigro tata",
+        "status": "todo",
+        "createdAt": "2026-06-27 23:07:45",
+        "updatedAt": "2026-06-27 23:07:45"
+    }
+]
